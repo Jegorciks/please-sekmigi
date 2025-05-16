@@ -1,2 +1,2 @@
 # please-sekmigi
-tukit bus 10 shas
+tulit bus 10 shas
