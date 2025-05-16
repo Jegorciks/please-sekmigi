@@ -1,2 +1,2 @@
 # please-sekmigi
-ong mes failoshu
+tukit bus 10 shas
